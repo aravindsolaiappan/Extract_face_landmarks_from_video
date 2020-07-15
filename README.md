@@ -5,6 +5,7 @@ pip install -r requirements.txt
 You also need shape detector, you can download it by 
 ```
 wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+Download shape_predictor_68_face_landmarks.dat directly from the internet
 ```
 # Usage
  ```
