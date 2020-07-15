@@ -1,4 +1,4 @@
-# Facial Landmark Detection 
+# Extract_Face_Landmarks_From_Video
 
 pip install -r requirements.txt
 
