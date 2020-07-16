@@ -2,6 +2,14 @@
 
 pip install -r requirements.txt
 
+# Prerquisites
+
+Import the following:
+1. opencv
+2. dlib
+3. face-recognition
+4. numpy and pandas
+
 You also need shape detector, you can download it by 
 ```
 wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
